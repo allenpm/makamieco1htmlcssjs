@@ -1,0 +1,128 @@
+body{
+    /* background-color: #ECDBBA; */
+    padding: none;
+    margin: 0;
+    align-items: center;
+    background-color: #ECDBBA;
+    /* background-color: #161616;     */
+}
+
+header{
+    /* background-color: #ECDBBA; */
+    background-color: #161616;
+    color: #346751;
+    display: inline-flex;
+    justify-content: space-around;
+    width: 100%;
+    padding-bottom: 1em;
+    
+}
+.ingreso-registrarse{
+    vertical-align: middle;
+    margin: auto;
+    float: right;
+    width: 10em;
+    display: inline-flex;
+    justify-content: space-evenly;    
+}
+.logo{
+    margin: 1em;
+    margin-left: 13em;
+    width: 7em;
+    border-radius: 50%;
+  
+}
+.logo1{
+    width: 40%;
+    /* float: ; */
+}
+.buscador{
+    vertical-align: middle;
+    margin: auto;
+    padding: 0;
+    border-radius: 20em;
+}
+.lobito{
+    width: 90%;
+    
+    margin-left: 4em;
+    align-items: center;
+   
+}
+nav{
+    background-color: #161616;
+    /* background-color: #ECDBBA; */
+    align-items: center;
+    width: 100%;
+    padding-bottom: 1em;
+}
+.links{
+    width: 60%;
+    display: inline-flex;
+    justify-content: space-around;
+    margin-right: auto;
+    margin-left: 15em;
+    float: center;
+}
+.botonbuscar{
+    background-color: #C84B31;
+    text-decoration:none;
+    border: #161616 solid 1em;
+    margin-left: 0;
+}
+nav i{
+    width: auto;
+    text-decoration: none;
+    color: #C84B31;
+    /* margin-bottom: 0.7em; */
+    margin-top: -0.8em;
+}
+
+header a{
+    width: auto;
+    text-decoration: none;
+    color: #C84B31;
+    /* border: 1px solid #346751; */
+}
+nav a{
+    width: auto;
+    text-decoration: none;
+    color: #C84B31;
+}
+main{
+    /* background-color: #161616; */
+    height: auto;
+    background-color: #ECDBBA;
+    padding-top: 1em;
+    color: #346751;
+}
+.escrito{
+    width:90%;
+    margin-left: 4em;
+    /* align-items: center; */
+
+}
+footer{
+    width: 100%;
+    background-color: #161616;
+    justify-content: space-around;
+    display: inline-flex;
+}
+i{
+    /* margin-left: 1.2em; */
+    color: #346751;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    width: 18em;
+    /* margin-right:  1em; */
+    background-color: #161616;
+}
+.copy{
+    float: left;
+}
+.world{
+    float: right;
+}
+input{
+    margin-right: 0;
+}
